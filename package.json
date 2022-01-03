@@ -1,0 +1,22 @@
+{
+  "name": "vscode-demo1",
+  "version": "1.0.0",
+  "description": "simple Next.js project for use in a VScode Demo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arfanhayder/vscode-demo1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arfanhayder/vscode-demo1/issues"
+  },
+  "homepage": "https://github.com/arfanhayder/vscode-demo1#readme"
+}
